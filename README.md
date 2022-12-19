@@ -7,8 +7,10 @@
 This repository contains code which uses deep deterministic policy gradient to teach two agents to play tennis.
 
 
+
+
 <p align="center">
-  <img src="./assets/tennis.png" />
+  <img src="./assets/tennis.png" width="600"/>
 </p>
 
 <p align="center">
